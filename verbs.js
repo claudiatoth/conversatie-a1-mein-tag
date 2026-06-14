@@ -76,7 +76,7 @@ function buildVerbs() {
     const container = document.getElementById('verbs-container');
     if (!container) return;
     let html = `
-        <div class="theory-box" style="background:#fffbeb;border-left:4px solid #f59e0b">
+        <div class="theory-box" style="background:#F5F0E8;border-left:4px solid #D4A574">
             <h4>📌 5 verbe esențiale pentru ziua ta</h4>
             <p>La nivelul A1 ne concentrăm pe <strong>Präsens (prezent)</strong>. <strong>aufstehen, fernsehen, anfangen</strong> sunt <strong>separabile</strong> (🔗) — prefixul (...) sare la finalul propoziției. <strong>frühstücken</strong> și <strong>arbeiten</strong> sunt regulate (arbeiten cu -e- de legătură).</p>
         </div>
@@ -98,7 +98,7 @@ function buildVerbs() {
                     <table class="grammar-table"><thead><tr><th>Pronume</th><th>Formă</th><th>Traducere RO</th></tr></thead><tbody>${praesensRows}</tbody></table>
                     <h4 style="color:#065f46;margin:14px 0 8px">💬 Exemplu din zi</h4>
                     <div class="example-box"><div class="de">${v.beispiel.de}</div><div class="ro">${v.beispiel.ro}</div></div>
-                    <div class="theory-box" style="margin-top:12px;background:#f0fdf4"><p><strong>📌 Notă:</strong> ${v.notes}</p></div>
+                    <div class="theory-box" style="margin-top:12px;background:#FBF7EF"><p><strong>📌 Notă:</strong> ${v.notes}</p></div>
                 </div>
             </div>
         `;

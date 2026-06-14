@@ -40,7 +40,7 @@ const theoryHTML = `
                 <p style="margin-top:6px;">🇷🇴 Descrie-ți programul zilnic: ce faci și la ce oră.</p>
             </div>
 
-            <div class="theory-box" style="background:#fef3c7;border-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8;border-color:#D4A574;">
                 <h4>✍️ Notă despre diacritice</h4>
                 <p>Verificarea e blândă: poți scrie Umlaut-urile corect (<em>der Frühstück</em>… de fapt <em>das Frühstück</em>) sau cu varianta de înlocuire (<em>Fruehstueck</em>). Ambele sunt acceptate peste tot în lecție.</p>
             </div>
@@ -91,7 +91,7 @@ const theoryHTML = `
                     <tr><td class="verb">die Nacht</td><td>in der Nacht</td><td>noaptea</td></tr>
                 </tbody>
             </table>
-            <div class="theory-box" style="background:#fffbeb;border-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8;border-color:#D4A574;">
                 <h4>⚠️ Capcană: „am" sau „in der"?</h4>
                 <p>La aproape toate perioadele spui <strong>am</strong> (am Morgen, am Abend) — pentru că sunt masculine (der). Excepție: <strong>die Nacht</strong> e feminin → <strong>in der Nacht</strong> (noaptea).</p>
             </div>
@@ -124,7 +124,7 @@ const theoryHTML = `
                     <tr><td class="verb">8:45</td><td>acht Uhr fünfundvierzig</td><td>Viertel vor neun</td></tr>
                 </tbody>
             </table>
-            <div class="theory-box" style="background:#fffbeb;border-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8;border-color:#D4A574;">
                 <h4>⚠️ Capcana „halb"</h4>
                 <p><strong>halb neun = 8:30</strong>, NU 9:30! În germană „halb" arată spre ora următoare (jumătate de drum SPRE nouă). Deci halb sieben = 6:30, halb zehn = 9:30.</p>
             </div>
